@@ -1,4 +1,4 @@
-package org.example.Ex2;
+package org.example.ex2;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

@@ -1,19 +1,19 @@
-package org.example.Ex2;
+package org.example.ex2;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Ex78 implements ArrayListImp{
-    void main(String[] args) {
+public class Ex78 {
+    public static void main(String[] args) {
         System.out.println("Iniciando Array List");
         array();
 //        System.out.println("Iniciando List");
 //        lista();
     }
 
-    @Override
-    public void lista() {
+
+    public static void lista() {
         Scanner scanner = new Scanner(System.in);
         List<String> nomes = new ArrayList<>();
 
@@ -37,8 +37,8 @@ public class Ex78 implements ArrayListImp{
         scanner.close();
     }
 
-    @Override
-    public void array() {
+
+    public static void array() {
         Scanner scanner = new Scanner(System.in);
         String[] nomes = new String[10];
 

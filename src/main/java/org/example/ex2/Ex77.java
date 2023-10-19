@@ -1,18 +1,18 @@
-package org.example.Ex2;
+package org.example.ex2;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex77 implements ArrayListImp {
+public class Ex77 {
 
-    void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Iniciando Array List");
         array();
 //        System.out.println("Iniciando List");
 //        lista();
     }
-    @Override
-    public void lista() {
+
+    public static void lista() {
         List<Integer> V = new ArrayList<>();
         // Adicionando elementos
         for (int i = 1; i <= 8; i++) {
@@ -35,8 +35,8 @@ public class Ex77 implements ArrayListImp {
         }
     }
 
-    @Override
-    public void array() {
+
+    public static void array() {
         int[] V = {1, 2, 3, 4, 5, 6, 7, 8};
 
         // Para i de 8 até 5 passo -1

@@ -1,20 +1,20 @@
-package org.example.Ex2;
+package org.example.ex2;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
-public class Ex80 implements ArrayListImp{
-    void main(String[] args) {
+public class Ex80 {
+    public static void main(String[] args) {
         System.out.println("Iniciando Array List");
         array();
 //        System.out.println("Iniciando List");
 //        lista();
     }
 
-    @Override
-    public void lista() {
+
+    public static void lista() {
         Scanner scanner = new Scanner(System.in);
         List<Integer> Q = new ArrayList<>();
         int maiorValor = Integer.MIN_VALUE;
@@ -46,8 +46,8 @@ public class Ex80 implements ArrayListImp{
         scanner.close();
     }
 
-    @Override
-    public void array() {
+
+    public static void array() {
         Scanner scanner = new Scanner(System.in);
         int[] Q = new int[20];
         int maiorValor = Integer.MIN_VALUE;

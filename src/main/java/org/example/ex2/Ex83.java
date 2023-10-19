@@ -1,4 +1,4 @@
-package org.example.Ex2;
+package org.example.ex2;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -6,16 +6,16 @@ import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
-public class Ex83 implements ArrayListImp{
+public class Ex83 {
 
-    void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Iniciando Array List");
         array();
 //        System.out.println("Iniciando List");
 //        lista();
     }
-    @Override
-    public void lista() {
+
+    public static void lista() {
         Scanner scanner = new Scanner(System.in);
         List<Integer> numeros = new ArrayList<>();
 
@@ -40,8 +40,8 @@ public class Ex83 implements ArrayListImp{
         scanner.close();
     }
 
-    @Override
-    public void array() {
+
+    public static void array() {
         Scanner scanner = new Scanner(System.in);
         int[] numeros = new int[20];
 

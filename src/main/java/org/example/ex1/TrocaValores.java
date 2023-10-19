@@ -1,6 +1,4 @@
-package org.example.Ex1;
-
-import java.util.Scanner;
+package org.example.ex1;
 
 public class TrocaValores {
     public static void main(String[] args) {
