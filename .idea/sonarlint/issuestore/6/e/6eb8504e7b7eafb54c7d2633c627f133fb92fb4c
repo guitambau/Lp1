@@ -1,0 +1,18 @@
+
+y	java:S127G"XRefactor the code in order to not assign to this loop counter from within the loop body.(é¢ğÑıÿÿÿÿ8ªáŒ‚´1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ñ›Ñüÿÿÿÿ8ªáŒ‚´1
+m	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨îÈ¢8ªáŒ‚´1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÙˆ£8«áŒ‚´1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(‰ü¡Òüÿÿÿÿ8êáŒ‚´1
+W	java:S125"<This block of commented-out lines of code should be removed.(øÁÃb8êáŒ‚´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•å«ùÿÿÿÿ8îáŒ‚´1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÑ«Â8îáŒ‚´1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¤Å¦ıÿÿÿÿ8îáŒ‚´1
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(Œƒ•ô8ïáŒ‚´1
+T	java:S106."9Replace this use of System.out or System.err by a logger.(®É^8ïáŒ‚´1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(•å«ùÿÿÿÿ8ñáŒ‚´1
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(‡ÅŞâşÿÿÿÿ8ñáŒ‚´1
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(¤Å¦ıÿÿÿÿ8òáŒ‚´1
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(Œƒ•ô8òáŒ‚´1
+T	java:S106Q"9Replace this use of System.out or System.err by a logger.(®É^8òáŒ‚´1

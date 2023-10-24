@@ -1,3 +1,27 @@
 
 ]
 -src/main/java/org/example/Ex1/Antecessor.java,4\9\492697e0d89003fcfa3c8173b3c04bc8f6cca963
+W
+'src/main/java/org/example/ex2/Ex80.java,8\e\8ea14df5e44340a37c36b371a09043c08d2f641a
+W
+'src/main/java/org/example/ex2/Ex81.java,6\e\6eb8504e7b7eafb54c7d2633c627f133fb92fb4c
+W
+'src/main/java/org/example/ex2/Ex79.java,f\f\ff6c230c8daef4406a752f7ff1e01f89a0f974e6
+W
+'src/main/java/org/example/ex2/Ex78.java,6\9\69787c6ff242b35130e2dc2bfad7ca80833fdd76
+W
+'src/main/java/org/example/ex2/Ex83.java,9\c\9c0212ef752e780acbb1eff5a40e1f781935ffb0
+W
+'src/main/java/org/example/ex2/Ex85.java,c\2\c26276c4fc95e5d2f0de565b17cd111eb1db98ab
+W
+'src/main/java/org/example/ex2/Ex86.java,7\a\7a43faaaa206d6469f1294a5c3adda2735e7a3e4
+_
+/src/main/java/org/example/ex2/ArrayListImp.java,e\e\ee088ca9e8d1a7efc85478b493be1c075a696e26
+W
+'src/main/java/org/example/ex2/Ex91.java,6\b\6b207f4dfeac6fe14b4f9196280f7c4befe477bd
+W
+'src/main/java/org/example/ex2/Ex90.java,6\0\607333762052120d73310a031f2c5af53fefdf03
+W
+'src/main/java/org/example/ex2/Ex89.java,3\e\3e9f404efc56975b281ac69d3b78c9b128d2cf24
+W
+'src/main/java/org/example/ex2/Ex88.java,2\7\27cabc774732a4ab5690db7932769d7ee2ad239b

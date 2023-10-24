@@ -1,0 +1,20 @@
+
+h
+java:S1192""KDefine a constant instead of duplicating this literal "O nÃºmero " 4 times.(ƒ„§È8¹“¯«´1
+y	java:S127E"XRefactor the code in order to not assign to this loop counter from within the loop body.(ä›¹÷úÿÿÿÿ8¹“¯«´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰ü¡Òüÿÿÿÿ8™š˜«´1
+W	java:S125"<This block of commented-out lines of code should be removed.(øÁÃb8™š˜«´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ë¾Ìéùÿÿÿÿ8œš˜«´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ì´‹ÿÿÿÿÿ8žš˜«´1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ƒ„§È8Ÿš˜«´1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Çãÿÿÿÿÿ8Ÿš˜«´1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ýªÛƒüÿÿÿÿ8©¹®«´1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ë¾Ìéùÿÿÿÿ8ˆ”¯«´1
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(¦ˆ•í8ˆ”¯«´1
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ìßª†8Š”¯«´1
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(¬ñé‡þÿÿÿÿ8Š”¯«´1
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(¿¶ïÁ8Š”¯«´1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Š”¯«´1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8«¹®«´1

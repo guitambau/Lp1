@@ -1,0 +1,19 @@
+
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ªõÝë8’µçª´1
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Úö™¦ýÿÿÿÿ8’µçª´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰ü¡Òüÿÿÿÿ8Šœáª´1
+W	java:S125"<This block of commented-out lines of code should be removed.(øÁÃb8Šœáª´1
+:
+java:S2119"Save and re-use this "Random".(¼ÝÅf8ãÕæª´1
+T	java:S106!"9Replace this use of System.out or System.err by a logger.(¬æº08äÕæª´1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(³‡žß8äÕæª´1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(¡¦Ã¥8äÕæª´1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.( œ©÷8äÕæª´1
+:
+java:S2119+"Save and re-use this "Random".(¼ÝÅf8šµçª´1
+T	java:S1068"9Replace this use of System.out or System.err by a logger.(¬æº08›µçª´1
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(³‡žß8›µçª´1
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(¡¦Ã¥8›µçª´1
+U	java:S106;"9Replace this use of System.out or System.err by a logger.( œ©÷8›µçª´1
